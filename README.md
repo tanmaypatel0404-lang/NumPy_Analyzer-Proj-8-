@@ -125,14 +125,11 @@ This project helps develop practical knowledge of Python classes, NumPy arrays, 
 
 ---
 
-## 🚀 Future Improvements
+## 🚀 Video Explaination
 
-Possible enhancements include:
-- Adding a graphical user interface (GUI).
-- Importing and exporting data using CSV files.
-- Supporting additional statistical calculations.
-- Adding visual charts using Matplotlib.
-- Saving previous calculations for later use.
+
+https://github.com/user-attachments/assets/66b0efe6-0e4f-4caf-ab2d-0849bdf0ca4f
+
 
 ---
 
